@@ -2,7 +2,7 @@
 layout:     post
 title:      "Escape Days"
 subtitle:   " \"My Fucking lives\""
-date:       2025-2-22 19:00:00
+date:       2026-01-22 19:00:00
 author:     "Yau"
 header-img: ""
 catalog: "what i say"
