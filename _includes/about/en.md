@@ -1,14 +1,13 @@
-Hey, I am yau . I 'm studying in Xi'an Jiaotong University .I majored in computer science.
+Hey, I'm Yau. I'm studying at Xi'an Jiaotong University, majoring in computer science.
 
-I considered myself as a hybride of passion and calmness.While I'm obssesed with so-called computer science,I spend most of my time dive into the scientific research of AI .But I'm not a
-boring dick for sure .Let's explore myself.
+I consider myself a hybrid of passion and calmness. While I'm obsessed with computer science, I spend most of my time diving into AI research. But I'm not a boring dick for sure. Let's explore myself.
 
-Now I worked in the super-alignment lab which was tutored by Xiangyong Cao .
-
+Now I work in the Super-Alignment Lab, supervised by Xiangyong Cao.
 
 
 
-##### Appearence
+
+##### Appearance
 
 - Painfully nowhere
 
@@ -18,5 +17,4 @@ Now I worked in the super-alignment lab which was tutored by Xiangyong Cao .
 
 ##### Patents
 
-- STAGE ROBOTS(FIRST AUTHOR)
-
+- STAGE ROBOTS (FIRST AUTHOR)

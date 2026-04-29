@@ -17,7 +17,7 @@ weibo_username: NONE
 zhihu_username: NONE
 github_username: Yau-20070205
 twitter_username: NONE
-#facebook_username:  huxpro
+#facebook_username: your-facebook-username
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -71,8 +71,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的scientist <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "要做一个有 swag 的scientist"
+sidebar-avatar: /img/bg-me-2022.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
