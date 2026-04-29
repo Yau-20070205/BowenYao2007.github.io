@@ -1,22 +1,13 @@
-Hey, I am yau . I 'm studying in Xi'an Jiaotong University .I majored in computer science.
+Hi, I'm Yau. I'm a freshman (Class of 2025) in Computer Science at Xi'an Jiaotong University, focusing on AI and computer vision. I currently work in Prof. Xiangyong Cao's lab. I'm from Chengdu, Sichuan, and I enjoy good food, cycling, movies, and more. Looking forward to exploring stories and the future with you.
 
-I considered myself as a hybride of passion and calmness.While I'm obssesed with so-called computer science,I spend most of my time dive into the scientific research of AI .But I'm not a
-boring dick for sure .Let's explore myself.
+##### Appearances
 
-Now I worked in the super-alignment lab which was tutored by Xiangyong Cao .
-
-
-
-
-##### Appearence
-
-- Painfully nowhere
+- None yet
 
 ##### Papers
 
-- Also nowhere
+- None yet
 
 ##### Patents
 
-- STAGE ROBOTS(FIRST AUTHOR)
-
+- Stage Robots (first author)
